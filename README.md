@@ -20,9 +20,29 @@ The goal is to model disease progression using different mathematical functions 
    ```bash
    git clone https://github.com/DiyanaTial/Curve-Fitting-of-Chagas-Disease.git
    cd Curve-Fitting-of-Chagas-Disease
-  2. Open MATLAB and run the main script:
+   ```
+2. Open MATLAB and run the main script:
    ```matlab
    run('Code.m')
+   ```
+   
+## Results
+- Comparison of different curve fitting models
+- Visualizations of fitted curves against observed Chagas data
+- Residual plots to evaluate model accuracy
+
+## Requirements
+- MATLAB R2023a or later
+
+## Collaborators
+- Diyana Tial
+- Annalisa Berg
+
+## References
+- Chagas Disease background: https://www.who.int/en/news-room/fact-sheets/detail/chagas-disease-(american-trypanosomiasis)
+  
+
+   
 
 
 
