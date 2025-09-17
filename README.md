@@ -8,7 +8,8 @@ The goal is to model disease progression using different mathematical functions 
 - **Techniques Used**:  
   - Nonlinear curve fitting  
   - MATLAB’s `fit` and `fittype` functions  
-  - Model evaluation with residual analysis and error metrics  
+  - Model evaluation with residual analysis and error metrics
+- Read Presentation to find the summary/findings of this project
 
 ## Repository Structure
 - `*.m` → MATLAB scripts for data processing, curve fitting, and plotting  
